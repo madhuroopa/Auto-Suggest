@@ -3,6 +3,7 @@
 #include<stdbool.h>
 #include<string.h>
 #define Alpha_size 26
+
 typedef struct n
 {
     bool isEOW;
